@@ -14,7 +14,8 @@ This repo contains a desktop application developed in Python using Tkinter. The 
  **Programming Language:** Python 3.10 or newer
 
  ## Screenshots
- ![screenshot1](https://i.imgur.com/v8zkhtl.png)
+ ![screenshot1](https://i.imgur.com/v8zkhtl.png)  
+   
  ![screenshot2](https://i.imgur.com/fOAvt5M.png)
  
 
