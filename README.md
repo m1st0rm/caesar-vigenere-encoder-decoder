@@ -10,7 +10,7 @@ This repo contains a desktop application developed in Python using Tkinter. The 
 
  ## Requirements
 
- **OS:** Windows, Linux or MacOS
+ **OS:** Windows, Linux or MacOS  
  **Programming Language:** Python 3.10 or newer
 
  ## Screenshots
